@@ -1,4 +1,5 @@
-<h3 align="center">A passionate frontend developer based in the Dominican Republic</h3>
+<h1 align="center">Hi 👋, I'm Ramon Rosarios</h1>
+<h3 align="center">A passionate frontend developer Based in the dominican Republic</h3>
 
 - 🌱 I’m currently learning **Vue.JS,React.**
 
