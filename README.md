@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **RamonRos2002@gmail.com**
 
-- ⚡ Fun fact **A gamer as heart**
+- ⚡ Fun fact **A gamer at heart**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
